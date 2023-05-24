@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meet Teddy, a fullstack software developer who spends most of his days typing furiously on his keyboard and mumbling to himself about the latest bug he's trying to fix ☕️.
+Meet Teddy, a fullstack software developer and blockchain dev aspirant who spends most of his days typing furiously on his keyboard and mumbling to himself about the latest bug he's trying to fix ☕️.
 
 
 ## 🌐 Socials:
