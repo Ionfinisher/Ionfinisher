@@ -14,3 +14,7 @@ Meet Teddy, a fullstack software developer and blockchain dev aspirant who spend
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 📌 Holopin Badges
+[![An image of @ionfinisher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ionfinisher)](https://holopin.io/@ionfinisher)
+
