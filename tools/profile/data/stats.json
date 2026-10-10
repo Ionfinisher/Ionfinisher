@@ -36,13 +36,6 @@
     "neuralhats": 6,
     "georgian-language-benchmarks": 0
   },
-  "dev": {
-    "articles": 45,
-    "reactions": 1993,
-    "comments": 1331,
-    "views": 109312,
-    "followers": 13609
-  },
   "contributions_year": 1053,
   "contributions_all": 1693
 }
