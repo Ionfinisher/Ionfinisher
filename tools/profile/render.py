@@ -124,7 +124,7 @@ def up40(v):
 # ─────────────────────────────── header ───────────────────────────────
 def build_header():
     bar_left, bar_right = "SYS://PILOTRONICA // NODE:GIORGI", "ONLINE · ALL SYSTEMS NOMINAL"
-    name = "GIORGI KOBAIDZE"
+    name = "TEDDY ASSIH"
     lines = ["software engineer · engineering manager", "10 years of C# / .NET, back-end at heart",
              "building open-source tools under "]
     text = bar_left + bar_right + name + "$ whoami>>" + "".join(lines) + "PILOTRONICA"

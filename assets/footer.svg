@@ -15,7 +15,6 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <defs>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3fb950" stroke-opacity=".06"/></pattern>
 <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
 <filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
 
@@ -23,8 +22,8 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <path d="M16 -40V64M864 -40V64M16 64H864" fill="none" stroke="#3fb950" stroke-width="3" opacity=".55" filter="url(#glow)"/>
 <rect x="16" y="0" width="848" height="64" fill="#070b08"/>
 <rect x="16" y="0" width="848" height="64" fill="url(#grid)"/>
-<text x="52" y="30" class="dim"><tspan class="gr">$</tspan> exit</text>
-<text x="52" y="52" class="dim">connection to <tspan class="cy">georgekobaidze</tspan> closed. <tspan fill="#484f58">// EOF</tspan></text>
+<text x="52" y="30" class="dim">ready to take flight</text>
+<text x="52" y="52" class="gr cursor">✈︎</text>
 <path d="M16 0V64M864 0V64M16 64H864" fill="none" stroke="#3fb950" stroke-width="1.2"/>
 <g fill="none" stroke="#3fb950" stroke-width="2"><path d="M9 46V71H34"/><path d="M846 71H871V46"/></g>
 </svg>

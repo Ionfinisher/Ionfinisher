@@ -15,7 +15,6 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <defs>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3fb950" stroke-opacity=".06"/></pattern>
 <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
 <filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
 
@@ -24,12 +23,12 @@ text{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font
 <rect x="16" y="0" width="848" height="120" fill="#070b08"/>
 <rect x="16" y="0" width="848" height="120" fill="url(#grid)"/>
 <text x="52" y="44" font-weight="700" fill="#3fb950" filter="url(#g)" opacity=".8" style="font-size:20px">~/</text>
-<text x="52" y="44" font-weight="700" style="font-size:20px"><tspan class="cy">~/</tspan><tspan class="wh">links</tspan></text>
+<text x="52" y="44" font-weight="700" style="font-size:20px"><tspan class="cy"></tspan><tspan class="wh">frequencies</tspan></text>
 <text x="828" y="44" text-anchor="end" letter-spacing="2" fill="#6e7681" style="font-size:12px">// 01</text>
 <line x1="52" y1="58" x2="828" y2="58" stroke="#3fb950" stroke-opacity=".4"/>
 <line x1="52" y1="58" x2="172" y2="58" stroke="#3fb950" stroke-width="2"/>
 <line x1="52" y1="58" x2="172" y2="58" stroke="#3fb950" stroke-width="3" filter="url(#g)"/>
-<g class="ln" style="animation-delay:.15s"><text x="52" y="96" class="dim"><tspan class="gr">$</tspan> ping georgekobaidze --all-channels</text></g>
+<g class="ln" style="animation-delay:.15s"><text x="52" y="96" class="dim"><tspan class="gr">✈︎</tspan> contact me </text></g>
 <path d="M16 0V120M864 0V120" fill="none" stroke="#3fb950" stroke-width="1.2"/>
 <g fill="none" stroke="#3fb950" stroke-width="2"></g>
 </svg>
