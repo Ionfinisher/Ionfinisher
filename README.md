@@ -1,12 +1,25 @@
-<p align="center">
-<img src="./assets/header.svg" width="100%" align="top" alt="Giorgi Kobaidze — software engineer and engineering manager. 10 years of C# and .NET, back-end at heart. Building open-source tools under Pilotronica.">
-<img src="./assets/links.svg" width="100%" align="top" alt="Links">
-<a href="https://dev.to/georgekobaidze"><img src="./assets/links/dev.svg" width="20%" align="top" alt="DEV Community"></a><a href="https://www.linkedin.com/in/giorgikobaidze/"><img src="./assets/links/linkedin.svg" width="20%" align="top" alt="LinkedIn"></a><a href="https://x.com/georgekobaidze"><img src="./assets/links/x.svg" width="20%" align="top" alt="X"></a><a href="https://www.youtube.com/@Pilotronica"><img src="./assets/links/youtube.svg" width="20%" align="top" alt="YouTube"></a><a href="https://discord.com/users/571315867426488330"><img src="./assets/links/discord.svg" width="20%" align="top" alt="Discord"></a>
-<img src="./assets/stats.svg" width="100%" align="top" alt="Stats: 9 total stars; 418 contributions in 2026, 2856 all time; 45 pull requests (36 merged); current streak 1 day, longest 32 days; 19 followers; 12 forks; member since July 2022; 1 hackathon wins. Top languages: Python, TypeScript, SCSS, JavaScript, PHP.">
-<img src="./assets/contribution-city.svg" width="100%" align="top" alt="Contribution city: an isometric night skyline with one building per day of the last year. 663 contributions, busiest day December 30 with 46.">
-<!-- <img src="./assets/projects.svg" width="100%" align="top" alt="Projects">
-<a href="https://github.com/georgekobaidze/noterunway"><img src="./assets/card-noterunway.svg" width="50%" align="top" alt="NoteRunway — hackathon winner. AI-powered Notion workspace management: clean up and organize your workspace with deterministic scans and AI analysis. Next.js, TypeScript, MCP."></a><a href="https://github.com/georgekobaidze/metal-birds-watch"><img src="./assets/card-metal-birds-watch.svg" width="50%" align="top" alt="Metal Birds Watch — hackathon winner. Real-time notifications when planes fly over your location, with live aircraft data on an interactive map. Node.js, Leaflet, JavaScript."></a>
-<a href="https://github.com/georgekobaidze/sunday-dev-drive"><img src="./assets/card-sunday-dev-drive.svg" width="50%" align="top" alt="Sunday DEV Drive — DEV Weekend Challenge. A synthwave drive through your DEV Community articles, with your posts lit up on neon roadside billboards. Three.js, JavaScript, DEV API."></a><a href="https://github.com/georgekobaidze/neuralhats"><img src="./assets/card-neuralhats.svg" width="50%" align="top" alt="NeuralHats — Gemma 4 Challenge. Six AI personas debate any topic using the Six Thinking Hats framework. Runs fully local. React, FastAPI, Gemma 4."></a> -->
-<img src="./assets/stack.svg" width="100%" align="top" alt="Tech stack. Languages: C#, Java, TypeScript, JavaScript, Python. Frameworks: .NET, Node.js, FastAPI. Databases: PostgreSQL, MS SQL, MySQL, Redis, MongoDB. Cloud: AWS, Azure. Front-end: React, Next.js, Three.js, Tailwind CSS.">
-<img src="./assets/footer.svg" width="100%" align="top" alt="Connection closed.">
-</p>
+# 💫 About Me:
+
+Meet Teddy, a fullstack software developer who spends most of his days typing furiously on his keyboard and mumbling to himself about the latest bug he's trying to fix ☕️.
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-assih-b4204b254/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/altdeveloper_)
+
+# 💻 Tech Stack:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ✍️ Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 📌 Holopin Badges
+
+[![An image of @ionfinisher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ionfinisher)](https://holopin.io/@ionfinisher)
